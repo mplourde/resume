@@ -1,0 +1,3 @@
+compiler: LaTeX
+Theme: textmate
+Font size: 12px
